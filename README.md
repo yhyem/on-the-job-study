@@ -1,1 +1,1 @@
-현직자 스터디 코드 예제
+on the job study example
